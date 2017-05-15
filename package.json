@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "test-device-light-event",
+    "description": "TODO",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "count": "find . -name '*.js' -not -path './node_modules/*' | xargs wc -l | sort -r"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
