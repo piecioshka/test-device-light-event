@@ -1,10 +1,10 @@
 # test-device-light-event
 
-> Handle device light event
+:ledger: Handle device light event
 
-## Demo
+## Demo 🎉
 
-http://piecioshka.github.io/test-device-light-event/
+<http://piecioshka.github.io/test-device-light-event/>
 
 ## License
 
