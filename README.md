@@ -2,7 +2,7 @@
 
 :ledger: Handle device light event
 
-## Demo 🎉
+## Preview 🎉
 
 <http://piecioshka.github.io/test-device-light-event/>
 
